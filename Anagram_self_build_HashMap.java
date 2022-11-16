@@ -1,5 +1,4 @@
 //1.use txt profile to test the Hash Function
-//reference:https://dotblogs.com.tw/cylcode/2018/09/21/170510 / https://www.youtube.com/watch?v=KyUTuwz_b7Q
 import java.util.*;
 import java.io.*;
 
